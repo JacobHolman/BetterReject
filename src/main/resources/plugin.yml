@@ -1,0 +1,5 @@
+name: BetterReject
+author: Lava
+version: '${version}'
+main: me.lava.noitemdrop.RejectCore
+api-version: 1.19
